@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @fedi002
+- 👀 I’m interested in language "c++,c,js"
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+<!---
+fedi002/fedi002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
